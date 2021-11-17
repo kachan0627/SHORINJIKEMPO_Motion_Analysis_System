@@ -1,0 +1,430 @@
+﻿2018/01/25 12:33:19 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "F:\研究\実装\2018.1.25UI　ver1.5\bvh_player\bvh_player.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"F:\研究\実装\2018.1.25UI　ver1.5\bvh_player\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/include/" /I"C:\Program Files\Autodesk\FBX\FBX SDK\2015.1\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0700 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt human_sample.cpp
+         human_sample.cpp
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(54): warning C4005: 'WINDOW_WIDTH' : マクロが再定義されました。
+                 f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\simplehumanglut.h(14) : 'WINDOW_WIDTH' の前の定義を確認してください
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(55): warning C4005: 'WINDOW_HEIGHT' : マクロが再定義されました。
+                 f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\simplehumanglut.h(15) : 'WINDOW_HEIGHT' の前の定義を確認してください
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(283): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(285): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(376): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(389): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(407): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(430): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(446): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(966): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(968): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(991): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(993): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1015): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1017): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1042): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1044): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1073): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1076): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1079): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(481) : '_itoa' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1083): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1084): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1088): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1089): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1093): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1094): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1098): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1099): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1103): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1104): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1108): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1109): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1113): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1114): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1118): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1119): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1121): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1122): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(1123): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 'strcat' の宣言を確認してください。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(11797): warning C4305: '引数' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(11901): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(11904): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(11914): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(11915): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(11918): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(11929): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(11940): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(11948): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(11971): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12286): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12295): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12303): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12311): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12321): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12329): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12339): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12347): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12357): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12365): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12375): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12383): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12393): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12401): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12411): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12419): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12429): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12437): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12447): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12455): warning C4305: '/=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12463): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12464): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12466): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12467): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12472): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12480): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12490): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12502): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12503): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12574): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12610): warning C4244: '引数' : 'double' から 'unsigned int' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12610): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12636): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12651): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12669): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12713): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12725): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12738): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12769): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12774): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12779): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12784): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12789): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12804): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12816): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12828): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12840): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12852): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12864): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12876): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12899): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12994): warning C4305: '=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(12999): warning C4305: '=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13010): warning C4305: '=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13015): warning C4305: '=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13096): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13101): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13106): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13111): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13116): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13121): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13126): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13131): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13136): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13141): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13146): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13244): warning C4305: '=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13249): warning C4305: '=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13260): warning C4305: '=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13265): warning C4305: '=' : 'double' から 'float' へ切り詰めます。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13346): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13351): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13356): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13361): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13366): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13371): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13376): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13381): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13386): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13391): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13396): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13419): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13432): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13445): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13450): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13455): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13460): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13465): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13470): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13475): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13480): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13485): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13490): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13495): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13500): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13505): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13527): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13540): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13553): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13559): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13565): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13571): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13576): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13598): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13607): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13623): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13628): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13633): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13638): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13643): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13648): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13653): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13658): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13663): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13668): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13673): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13678): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13683): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13706): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13712): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13728): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13734): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13740): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13746): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13752): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13761): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13784): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13837): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13892): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13937): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(13997): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14005): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14011): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14060): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14066): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14081): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14110): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14164): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14170): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14184): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14230): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14245): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14261): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14276): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14281): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14389): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14424): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14429): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14434): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14439): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14444): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14449): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14455): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14460): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14465): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14473): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14478): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14483): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14578): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14618): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14623): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14628): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14633): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14638): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14643): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14649): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14654): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14659): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14667): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14672): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14677): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14757): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14829): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14854): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14860): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14866): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14873): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14879): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14885): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14892): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14898): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14904): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14910): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14916): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14923): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14929): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14936): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14942): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14948): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14954): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14960): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14966): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(14972): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15023): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15048): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15054): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15060): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15066): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15073): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15123): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15159): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15165): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15171): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15178): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15199): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15222): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15227): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15232): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15237): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15242): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15247): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15252): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15257): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15262): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15267): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15272): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15277): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15303): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15332): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15355): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15606): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15759): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15779): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15785): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15791): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15797): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15803): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15809): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15814): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15820): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15826): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15832): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15838): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15844): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15888): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15908): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15914): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15920): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15926): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15932): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15938): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15943): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15949): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15955): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15961): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15967): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(15973): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16466): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16609): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16617): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16624): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16631): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16638): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16644): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16737): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16882): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16889): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16896): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16903): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16910): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(16918): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17021): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17165): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17171): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17177): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17183): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17189): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17197): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17290): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17435): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17441): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17447): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17453): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17459): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17467): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17561): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17708): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17714): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17720): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17726): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17732): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17740): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17834): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17977): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17983): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17989): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(17995): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18001): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18009): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18102): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18247): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18253): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18259): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18265): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18271): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18279): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18373): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18520): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18526): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18532): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18538): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18544): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18552): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18616): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18611): warning C4101: 'set_segment' : ローカル変数は 1 度も使われていません。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18719): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18714): warning C4101: 'set_segment' : ローカル変数は 1 度も使われていません。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18782): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18777): warning C4101: 'set_segment' : ローカル変数は 1 度も使われていません。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18933): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18970): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18983): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(18996): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(19008): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(19119): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(19120): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(19126): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(19127): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(19340): warning C4101: 'ps' : ローカル変数は 1 度も使われていません。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(19339): warning C4101: 'hdc' : ローカル変数は 1 度も使われていません。
+     1>f:\研究\実装\2018.1.25ui　ver1.5\bvh_player\human_sample.cpp(19379): warning C4715: 'DlgWndProc' : 値を返さないコントロール パスがあります。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\bvh_player.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\Autodesk\FBX\FBX SDK\2015.1\lib\vs2013\x64\debug" "F:\研究\実装\2018.1.25UI　ver1.5\bvh_player\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glew32.lib" "F:\研究\実装\2018.1.25UI　ver1.5\bvh_player\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glfw3dll.lib" "F:\研究\実装\2018.1.25UI　ver1.5\bvh_player\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\freeglut.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib OpenGL32.lib "libfbxsdk-mt.lib" Nafxcwd.lib Libcmtd.lib /NODEFAULTLIB:Nafxcwd.lib /NODEFAULTLIB:Libcmtd.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"Debug\bvh_player.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\bvh_player.lib" /MACHINE:X86 /SAFESEH Debug\bvh_player.res
+         Debug\BVH.obj
+         Debug\Calc.obj
+         Debug\Calculation.obj
+         Debug\DIALOG1.obj
+         Debug\FramePartition.obj
+         Debug\human_sample.obj
+         Debug\Motionbool.obj
+         Debug\PositionVector.obj
+         Debug\quat.obj
+         Debug\Quaternion.obj
+         Debug\RotationMatrix.obj
+         Debug\SimpleHuman.obj
+         Debug\SimpleHumanGLUT.obj
+         Debug\TestDialog.obj
+     1>BVH.obj : warning LNK4075: /EDITANDCONTINUE は /SAFESEH の指定によって無視されます。
+         bvh_player.vcxproj -> F:\研究\実装\2018.1.25UI　ver1.5\bvh_player\Debug\bvh_player.exe
+     1>プロジェクト "F:\研究\実装\2018.1.25UI　ver1.5\bvh_player\bvh_player.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:11.45
